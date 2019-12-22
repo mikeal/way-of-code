@@ -98,6 +98,6 @@ a poor place to center learning and debugging. I mostly read code on GitHub wher
 other tools. For debugging I now rely on a variety of command line tools to point out where the issues are rather
 than integrating them into my editor.
 
-Not have the editor/IDE be the central dumping ground for all tooling as made me much less dependent on a specific
+Now that the editor/IDE isn't the central dumping ground for all tooling I'm much less dependent on a specific
 device or environment. I do all of my development in a remote docker container. As I take on different tasks
 I can spin up different machines or tmux sessions suited to the task. 
