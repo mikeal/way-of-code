@@ -73,7 +73,7 @@ attention away from the expression and interrupt my flow.
 All the features people add to editors in order to reduce errors need to be turned off. I want errors to go un-noticed
 while I'm expressing what is in my mind. I’m often writing code for variables and functions that do not exist yet.
 I even turned off syntax highlighting, as I can’t help but look to the highlighter as a sort of error check. Anything
-that draws my attention interrupts the flow of expression. Most programmers have had sessions or at least momemnts of
+that draws my attention interrupts the flow of expression. Most programmers have had sessions or at least moments of
 intense flow and we often are trying to re-produce those flow states, but it's not until I started removing all the
 tools we use to "help" us program that I realized how much they interrupt that flow.
 
