@@ -6,7 +6,7 @@ and that the end result is limited not by methods of engineering but by the skil
 of a programmer to express their desired form.
 
 Programming happens in the mind. There is a disparity between what can be *proven*, what 
-cant be *imagined* and what can be *expressed*, and that distance is the experience and
+can be *imagined* and what can be *expressed*, and that distance is the experience and
 art of the programmer.
 
 As I try to be a better programmer I've turned toward debugging my mind. Considering the
